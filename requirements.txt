@@ -1,0 +1,8 @@
+fastcore
+fastai
+voila
+pillow>=7.1.0
+packaging
+ipywidgets
+treeinterpreter 
+matplotlib
