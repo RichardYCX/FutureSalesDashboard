@@ -1,5 +1,4 @@
 voila
 fastai==2.2.2
 ipywidgets
-treeinterpreter 
-matplotlib
+treeinterpreter
